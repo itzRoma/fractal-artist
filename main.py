@@ -1,7 +1,7 @@
 import turtle
 import tkinter as tk
 from tkinter import ttk
-from resources import *
+from src import *
 from random import randint
 from tkinter import messagebox
 from pyautogui import size
