@@ -1,5 +1,7 @@
-# WARNING
+# Description
 
-Save this all files in the same directory if you want to run this program by yourself.
-This app uses "pyautogui"! You need to install pyautogui, if you don't have this module already installed.
-Recommended display resolution: 1920x1080! Recommended display scale: 100%!
+> ## Pictures
+>
+> - Pictures with ***'detailed'*** word in their names will take more space in your device. They are high quality pictures of some fractals.
+>
+> - Pictures with ***'general'*** word in their names are much smaller and have less quality then ***'detailed'***. They need to see them completely.
